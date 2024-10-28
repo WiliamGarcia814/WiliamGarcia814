@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+everyone!+I'm+Wiliam+García;Mobile+Developer)](https://git.io/typing-svg)
 
-<img src="https://media.tenor.com/OEAjabUzGKEAAAAi/microsoft-computer.gif" alt="Pixel Art" align="right" width="200">
+<img src="https://media.tenor.com/ovUCSP7CK4gAAAAi/mobile-phone-objects.gif" alt="Pixel Art" align="right" width="200">
 
 ### Technologies and tools:
 
@@ -25,8 +25,13 @@
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/WiliamGarcia814">
     <img height="195px" src="https://github-readme-stats.vercel.app/api?username=WiliamGarcia814&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiliamGarcia814&layout=compact&langs_count=7&theme=one_dark_pro"/>
+    <!--<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiliamGarcia814&layout=compact&langs_count=7&theme=one_dark_pro"/> -->
   </a>
+</div>
+
+## Portfolio
+<div> 
+  <a href="https://shell-eagle-448.notion.site/Wiliam-Hern-n-Garc-a-Mart-nez-8f56a3fcc0c544c3bd09658f70286893?pvs=4" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio" target="_blank"></a>
 </div>
     
 ### Contact
