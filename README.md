@@ -31,14 +31,6 @@
 </div>
 -->
 
-### Portfolio
-<div> 
-  <a href="https://shell-eagle-448.notion.site/Wiliam-Hern-n-Garc-a-Mart-nez-8f56a3fcc0c544c3bd09658f70286893?pvs=4" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio" target="_blank"></a>
-</div>
-    
-### Contact
-
-<div> 
-  <a href="https://www.linkedin.com/in/wiliamgarcia-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:whgarcia.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+| Portfolio | Contact |
+|-----------|---------|
+| [![Portfolio](https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=notion&logoColor=white)](https://shell-eagle-448.notion.site/Wiliam-Hern-n-Garc-a-Mart-nez-8f56a3fcc0c544c3bd09658f70286893?pvs=4) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wiliamgarcia-dev) [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:whgarcia.dev@gmail.com) |
